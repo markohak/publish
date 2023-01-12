@@ -1,3 +1,11 @@
 {
-  "your": "json config here"
+  "name": "@markohak/publish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
